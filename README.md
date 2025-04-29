@@ -21,9 +21,8 @@ Mi objetivo con este perfil y mis proyectos es documentar mi progreso, practicar
 ## 📫 Contacto
 
 Puedes encontrarme en:  
-- GitHub: [tu-usuario](https://github.com/tu-usuario)  
-- Email: tuemail@ejemplo.com
+- GitHub: [minivellis](https://github.com/minivellis)  
+- Email: velliscavara@gmail.com
 
 ---
 
-*Gracias por visitar mi presentación. ¡Seguimos aprendiendo!*
