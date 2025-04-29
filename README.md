@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👨‍💻 Minivellis
 
-<!--
-**minivellis/minivellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy **Minivellis**, un estudiante y desarrollador en formación, apasionado por la tecnología, el aprendizaje continuo y la creación de proyectos útiles.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy estudiando desarrollo de software y me encanta explorar nuevas herramientas, lenguajes y desafíos. Cada línea de código es una oportunidad para mejorar y entender mejor cómo funciona el mundo digital.
+
+## 🛠️ Tecnologías que estoy aprendiendo
+
+- HTML / CSS / JavaScript  
+- Python  
+- Git y GitHub  
+- Bases de datos (MySQL, SQLite)  
+- Frameworks como Flask y React (en progreso)
+
+## 📌 Objetivo
+
+Mi objetivo con este perfil y mis proyectos es documentar mi progreso, practicar mis habilidades y, con el tiempo, contribuir a proyectos reales que puedan tener un impacto positivo.
+
+## 📫 Contacto
+
+Puedes encontrarme en:  
+- GitHub: [tu-usuario](https://github.com/tu-usuario)  
+- Email: tuemail@ejemplo.com
+
+---
+
+*Gracias por visitar mi presentación. ¡Seguimos aprendiendo!*
